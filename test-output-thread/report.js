@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"86c0b66c-aa92-402e-bf88-29c7e523683c","feature":"Login page feature","scenario":"Login page title","start":1718776675140,"group":1,"content":"","tags":"","end":1718776685812,"className":"passed"},{"id":"8e286417-b616-4f47-ac52-c48721252917","feature":"Login page feature","scenario":"Forgot Password link","start":1718776685825,"group":1,"content":"","tags":"","end":1718776699786,"className":"passed"},{"id":"c8a32371-1264-4345-b071-b04ebe2fbe5f","feature":"Login page feature","scenario":"Login with correct credentials","start":1718776699788,"group":1,"content":"","tags":"","end":1718776720293,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});

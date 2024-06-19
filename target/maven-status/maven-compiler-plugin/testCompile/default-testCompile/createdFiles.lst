@@ -1,0 +1,4 @@
+steps\LoginSteps.class
+steps\ApplicationHooks.class
+steps\WindowPage.class
+TestRunner\TestRunner.class
